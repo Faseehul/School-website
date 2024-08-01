@@ -1,0 +1,32 @@
+.admission-page header{
+    background-image: url(../../img/bg-9.jpg);
+}
+
+
+.column5{
+    margin-top: 300px;
+    align-items: center;
+    margin-left: 400px;
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+
+}
+.container2{
+    background-color: lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.nowlogo{
+    object-fit: cover;
+  height: 7rem;
+  width: 7rem;
+}
+.container2 h6{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+.container2 p{
+    margin-left: 10px;
+}

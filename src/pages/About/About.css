@@ -1,0 +1,145 @@
+.about-page header{
+    background-image: linear-gradient(rgba(5, 10, 35, 0.1), rgba(5, 10, 35, 0.1)), url(../../img/bg-4.jpg);
+}
+.about-page h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-page h1{
+    
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.vision-text{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.vision-text p{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 1.2rem;
+}
+.Mission-text {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.Mission-text p{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 1.2rem;
+}
+.message{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.message p{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 1.2rem;
+}
+.facilities{
+    text-align: center;
+}
+.container{
+    position: relative;
+}
+
+.lab1{
+    margin-top: 20px;
+    width: 500px;
+    position: relative;
+    
+}
+.text-block{
+    position: absolute;
+    bottom: 0px;
+    right: 410px;
+    background-color: black;
+    color: white;
+    padding-left: 80px;
+    padding-right: 95px;
+
+}
+.text-block p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.lab2{
+    margin-top: 30px;
+    width: 500px;
+    position: relative;
+}
+.libr{
+    margin-top: 30px;
+    width: 500px;
+    position: relative;   
+}
+.gym1{
+    margin-top: 30px;
+    width: 500px;
+    position: relative;   
+}
+.class{
+    margin-top: 30px;
+    width: 500px;
+    position: relative;   
+}
+.text-block2{
+    position: absolute;
+    bottom: 0px;
+    right: 410px;
+    background-color: black;
+    color: white;
+    padding-left: 90px;
+    padding-right: 85px;
+
+}
+.text-block3{
+    position: absolute;
+    bottom: 0px;
+    right: 410px;
+    background-color: black;
+    color: white;
+    padding-left: 25px;
+    padding-right: 14px;
+
+}
+.text-block4{
+    position: absolute;
+    bottom: 0px;
+    right: 412px;
+    background-color: rgb(0 0 0);
+    background: rgba(0 0 0 0.5);
+    color: #f1f1f1;
+    padding-left: 45px;
+    padding-right: 45px;
+
+}
+.text-block5{
+    position: absolute;
+    bottom: 0px;
+    right: 410px;
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+    padding-right: 95px;
+
+}
+.text-block2 p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.text-block3 p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.text-block4 p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.text-block5 p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}

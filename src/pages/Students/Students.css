@@ -1,0 +1,162 @@
+.students-page header{
+    background-image: linear-gradient(rgba(5, 10, 35, 0.1), rgba(5, 10, 35, 0.1)), url(../../img/bg-7.jpg); 
+}
+.row h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+
+.column{
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+@media screen and (max-width: 650px) {
+    .column{
+        width: 100%;
+        display: block;
+    }
+    
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.container{
+    padding: 0 16px;
+
+}
+.container h2, h3, p{
+    margin-left: -1350px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container::after, .row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.matholym{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.swimchamp{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.techinno{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.grade{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -90px;
+}
+.pres{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.vice{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.sec {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.life h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    color: rgb(77, 72, 72);
+}
+
+.life  .container {
+    position: relative;
+    max-width: 800px; 
+    margin: 0 auto;
+}   
+.container .content {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 400px ; 
+    padding: 20px; 
+    margin-left: 50px;
+  }
+  .content h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 2rem;
+  }
+  .music{
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+
+  }
+
+  .act{
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+
+  }
+  .game{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+
+  }
+
+  .draw{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+
+  }
+  .steps{
+    margin-top: 50px;
+    width: 500px;
+    height:500px;
+    margin-left: 350px;
+
+  }
+
+  .clubs{
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    color: rgb(77, 72, 72);;
+  }
+  .coding{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+  }
+  .evs{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+  }

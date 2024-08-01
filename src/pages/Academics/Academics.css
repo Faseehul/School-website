@@ -1,0 +1,30 @@
+.Academics-page header {
+    background-image: url(../../img/bg-8.jpg); 
+ 
+}
+.container1{
+    background-color: lightgray;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.container1  h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container1 h5{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 110px;
+
+}
+.container1 p{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.container1 h6{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 150px;
+    font-weight: 600;
+}
+.container1 h4{
+    text-align: center;
+}

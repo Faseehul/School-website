@@ -1,0 +1,14 @@
+.home-page header{
+    background-image: linear-gradient(rgba(148, 155, 193, 0.56), rgba(5, 10, 35, 0.75)), url(../../img/bg-3.jpg);
+}
+header{
+    background-size: cover;
+    background-position: center;
+}
+.home-page h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home-page h5{
+    font-family: 'Times New Roman', Times, serif;
+}

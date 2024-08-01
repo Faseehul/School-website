@@ -1,0 +1,39 @@
+.gallery-page header{
+    background-image: url(../../img/bg-6.jpg);
+}
+.sprt{
+    margin-top: 400px;
+    width: 500px;
+    height: 600px;
+    margin-left: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.exh{
+    margin-top: 400px;
+    width: 500px;
+    height: 600px;
+    margin-left: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.cultur{
+    margin-top: 50px;
+    width: 500px;
+    height: 600px;
+    margin-left: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.cls{
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+
+}
+.lib{
+    margin-top: 100px;
+    width: 500px;
+    height: 400px;
+    margin-left: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
